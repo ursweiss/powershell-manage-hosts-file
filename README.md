@@ -19,8 +19,8 @@ It may not work if you execute it from cmd because of the PowerShell restriction
 
 ## Usage: ##
 
-In the file "ManageHostsFile.ps1" you can add host to be added or removed:
-add-host -filename $file -ip "10.10.11.12" -host "foobar"
+In the file "ManageHostsFile.ps1" you can add host to be added or removed:  
+add-host -filename $file -ip "10.10.11.12" -host "foobar"  
 remove-host -filename $file -host "foobar"
 
 ## Credits: ##
