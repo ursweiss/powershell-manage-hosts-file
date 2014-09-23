@@ -24,7 +24,7 @@ add-host -filename $file -ip "10.10.11.12" -host "foobar"
 remove-host -filename $file -host "foobar"
 
 ## Credits: ##
-It's basen on the script of Mark Embling:  
+It's based on the script of Mark Embling:  
 https://gist.github.com/markembling/173887
 
 ## License ##
